@@ -51,7 +51,7 @@ function preload() {
     this.load.image("tree", "Assets/tree.png");
     this.load.image("N", "Assets/N.jpg");
     this.load.image("I", "Assets/I.jpg");
-    this.load.image("S", "Assets/S.jpg");
+    this.load.image("S", "Assets/s.jpg");
     this.load.image("HLetter", "Assets/H.jpg");
     this.load.image("T", "Assets/T.jpg");
     this.load.image("D", "Assets/D.jpg");
@@ -67,7 +67,7 @@ function preload() {
     this.load.image("mountain", "Assets/mountain.png");
     this.load.image("skills", "Assets/skills.png");
     this.load.image("fruit", "Assets/apple.png");
-    this.load.image("projectTitle", "Assets/projecttitle.png");
+    this.load.image("projectTitle", "Assets/projectTitle.png");
     this.load.image("project1", "Assets/project1.png");
     this.load.image("project2", "Assets/project2.png");
     this.load.image("training", "Assets/training.png");
@@ -78,7 +78,7 @@ function preload() {
     this.load.image("tech", "Assets/tech.png");
     this.load.image("java", "Assets/java.png");
     this.load.image("HTML", "Assets/HTML.png");
-    this.load.image("CSS", "Assets/CSS.png");
+    this.load.image("CSS", "Assets/css.png");
     this.load.image("jq", "Assets/jq.png");
     this.load.image("c", "Assets/c.png");
     this.load.image("js", "Assets/js.png");
